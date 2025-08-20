@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "description": "Exploring the hidden rooftop cafes in Mumbai.",
+    "content": "Mumbai is home to a wide variety of rooftop cafes that offer great ambiance and stunning views. In this blog, we’ll explore some of the best ones and what makes them special.",
+    "coverIMG": "https://example.com/images/mumbai-rooftop.jpg",
+    "category": "Travel",
+    "author": "Aisha Sharma",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "description": "Top 5 rooftop restaurants for couples.",
+    "content": "Looking for a romantic dinner spot? These rooftop restaurants provide the perfect setting for a date night with amazing city views and delicious food.",
+    "coverIMG": "https://example.com/images/romantic-dining.jpg",
+    "category": "Lifestyle",
+    "author": "Rohan Mehta",
+    "rating": 4.8
+  },
+  {
+    "id": "3",
+    "description": "Rooftop gardening: How to get started.",
+    "content": "If you're short on ground space but still want a garden, rooftop gardening is the solution. Here's everything you need to start your own urban rooftop garden.",
+    "coverIMG": "https://example.com/images/rooftop-garden.jpg",
+    "category": "DIY",
+    "author": "Neha Gupta",
+    "rating": 4.2
+  },
+  {
+    "id": "4",
+    "description": "Rooftop Yoga: A rising trend for wellness enthusiasts.",
+    "content": "Doing yoga on rooftops is not just trendy but also revitalizing. Discover why more and more people are taking their mats to the top.",
+    "coverIMG": "https://example.com/images/yoga.jpg",
+    "category": "Health",
+    "author": "Kunal Raj",
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "description": "Best rooftop brunch spots around the world.",
+    "content": "From New York to Tokyo, here are some of the best rooftop brunch places with great food and better views.",
+    "coverIMG": "https://example.com/images/brunch.jpg",
+    "category": "Food",
+    "author": "Priya Nair",
+    "rating": 4.9
+  }
+]
